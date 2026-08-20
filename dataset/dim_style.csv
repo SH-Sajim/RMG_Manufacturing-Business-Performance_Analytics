@@ -1,0 +1,81 @@
+StyleID,StyleCode,ProductCategory,Gender,FabricType,SMV
+1,STY0001,Polo Shirt,Boys,Single Jersey,22.5
+2,STY0002,Denim Pant,Women,Pique,19.2
+3,STY0003,Polo Shirt,Unisex,Poplin,15.1
+4,STY0004,Polo Shirt,Girls,Fleece,7.2
+5,STY0005,Knit Top,Men,Single Jersey,24.0
+6,STY0006,Denim Pant,Unisex,Pique,17.1
+7,STY0007,Knit Top,Women,Fleece,13.9
+8,STY0008,Hoodie,Girls,Pique,7.3
+9,STY0009,Knit Bottom,Men,Rib,11.2
+10,STY0010,Woven Shirt,Girls,Poplin,11.3
+11,STY0011,Jacket,Women,Twill,19.3
+12,STY0012,Denim Pant,Boys,Rib,18.0
+13,STY0013,Polo Shirt,Girls,Single Jersey,22.0
+14,STY0014,Polo Shirt,Boys,Twill,10.1
+15,STY0015,Knit Bottom,Men,Rib,14.0
+16,STY0016,Dress,Men,Fleece,10.3
+17,STY0017,Hoodie,Unisex,Single Jersey,20.6
+18,STY0018,Knit Bottom,Unisex,Rib,14.7
+19,STY0019,Jacket,Women,Fleece,10.7
+20,STY0020,Polo Shirt,Women,Single Jersey,17.2
+21,STY0021,Knit Bottom,Women,Single Jersey,7.6
+22,STY0022,Polo Shirt,Boys,Denim,22.2
+23,STY0023,Dress,Boys,Poplin,15.1
+24,STY0024,Woven Shirt,Boys,Twill,14.1
+25,STY0025,Denim Pant,Boys,Poplin,23.7
+26,STY0026,Polo Shirt,Women,Fleece,20.1
+27,STY0027,Denim Pant,Girls,Pique,12.9
+28,STY0028,Hoodie,Unisex,Twill,17.3
+29,STY0029,Denim Pant,Boys,Poplin,16.4
+30,STY0030,Knit Top,Men,Pique,24.3
+31,STY0031,Jacket,Boys,Denim,22.2
+32,STY0032,Polo Shirt,Unisex,Pique,20.5
+33,STY0033,Jacket,Girls,Pique,16.7
+34,STY0034,Hoodie,Girls,Poplin,17.6
+35,STY0035,Woven Shirt,Women,Twill,24.4
+36,STY0036,Denim Pant,Unisex,Poplin,17.9
+37,STY0037,Knit Bottom,Unisex,Poplin,12.0
+38,STY0038,Hoodie,Girls,Fleece,12.3
+39,STY0039,Jacket,Women,Pique,10.0
+40,STY0040,Dress,Men,Single Jersey,7.3
+41,STY0041,Polo Shirt,Women,Pique,14.6
+42,STY0042,Hoodie,Men,Fleece,14.1
+43,STY0043,Hoodie,Unisex,Denim,12.3
+44,STY0044,Dress,Boys,Fleece,7.3
+45,STY0045,Knit Top,Men,Poplin,10.6
+46,STY0046,Knit Bottom,Boys,Rib,19.8
+47,STY0047,Polo Shirt,Girls,Twill,21.2
+48,STY0048,Woven Shirt,Men,Denim,17.9
+49,STY0049,Knit Bottom,Women,Fleece,23.7
+50,STY0050,Polo Shirt,Boys,Rib,18.7
+51,STY0051,Denim Pant,Boys,Pique,23.5
+52,STY0052,Woven Shirt,Unisex,Fleece,22.3
+53,STY0053,Knit Top,Boys,Fleece,15.1
+54,STY0054,Dress,Men,Single Jersey,8.7
+55,STY0055,Jacket,Boys,Rib,13.7
+56,STY0056,Denim Pant,Women,Single Jersey,19.0
+57,STY0057,Polo Shirt,Girls,Single Jersey,19.0
+58,STY0058,Polo Shirt,Unisex,Rib,17.6
+59,STY0059,Woven Shirt,Girls,Pique,11.9
+60,STY0060,Woven Shirt,Unisex,Twill,17.1
+61,STY0061,Hoodie,Unisex,Pique,13.9
+62,STY0062,Denim Pant,Boys,Poplin,24.5
+63,STY0063,Hoodie,Boys,Poplin,22.3
+64,STY0064,Dress,Girls,Fleece,20.0
+65,STY0065,Polo Shirt,Women,Pique,11.2
+66,STY0066,Polo Shirt,Men,Twill,11.6
+67,STY0067,Denim Pant,Women,Fleece,7.7
+68,STY0068,Knit Top,Men,Single Jersey,19.8
+69,STY0069,Denim Pant,Men,Single Jersey,9.0
+70,STY0070,Jacket,Unisex,Single Jersey,14.9
+71,STY0071,Denim Pant,Girls,Twill,10.6
+72,STY0072,Denim Pant,Women,Fleece,23.1
+73,STY0073,Dress,Girls,Pique,15.6
+74,STY0074,Hoodie,Men,Pique,17.1
+75,STY0075,Polo Shirt,Girls,Poplin,19.5
+76,STY0076,Jacket,Girls,Denim,9.5
+77,STY0077,Dress,Men,Rib,17.9
+78,STY0078,Polo Shirt,Girls,Single Jersey,16.7
+79,STY0079,Jacket,Men,Rib,10.7
+80,STY0080,Denim Pant,Women,Pique,24.0
